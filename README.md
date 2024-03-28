@@ -1,2 +1,2 @@
 # blog-web
-https://akbiplobsa.github.io/blog-web/
+https://akbiplobs.github.io/blog-web/
